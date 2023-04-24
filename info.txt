@@ -1,0 +1,5 @@
+Node Package eXecute
+NPX stands for Node Package eXecute. 
+It is simply an NPM package runner. 
+It allows developers to execute any Javascript Package available on the NPM registry without even installing it. 
+NPX is installed automatically with NPM version 5.2. 0 .
